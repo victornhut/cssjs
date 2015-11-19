@@ -33,5 +33,5 @@
       //]]>
 	/*
 	var url_popup = 'http://giaydepnamnugiare.blogspot.com/';
-	<script src="https://jgoogle.googlecode.com/svn/trunk/popup.js"></script>
+	<script src="https://rawgithub.com/victornhut/cssjs/master/popup.js"></script>
 	*/
