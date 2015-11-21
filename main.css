@@ -5,3 +5,7 @@ body{
 .headerpic-wrapper {
   background: #f2fcff !important;
 }
+
+#header img {
+  margin: auto !important; 
+}
