@@ -15,3 +15,6 @@ body{
 #menu ul.menus{
   width: auto;
 }
+#footer{
+  background: #f2fcff !important;
+}
