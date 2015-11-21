@@ -9,3 +9,9 @@ body{
 #header img {
   margin: auto !important; 
 }
+.contact-form-widget{
+  line-height: 2px;
+}
+#menu ul.menus{
+  width: auto;
+}
