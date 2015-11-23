@@ -8,6 +8,7 @@ body{
 
 #header img {
   margin: auto !important; 
+  width: 200px;
 }
 .contact-form-widget{
   line-height: 2px;
