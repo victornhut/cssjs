@@ -19,3 +19,6 @@ body{
 #footer{
   background: #f2fcff !important;
 }
+#header{
+  max-width: 500px !important;
+}
